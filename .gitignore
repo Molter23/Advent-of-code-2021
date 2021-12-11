@@ -1,1 +1,8 @@
-a.txt
+**/Debug
+*.user
+*.filters
+*.sln
+*.vcxproj
+*.ipch
+*.db
+*.suo
