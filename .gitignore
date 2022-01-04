@@ -1,5 +1,6 @@
 #no Debug folders
 **/Debug
+**/Relase
 *.user
 *.filters
 *.sln
